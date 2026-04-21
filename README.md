@@ -1,4 +1,5 @@
 # Project4_CIVE202
+The project performs a geospatial risk assessment of natural hazard vulnerability within all census tracts throughout Florida and Louisiana, using information from FEMA's National Risk Index (NRI) together with the CDC's Social Vulnerability Index (SVI). The analysis investigates three main hazards which include coastal flooding and landslides and hurricanes; it compares the standard NRI risk assessment to a dedicated risk evaluation system created by the research team.
 The details of the files in this project can be found below.
 
 1. To see our project schedule and when everything was completed and how it was organized, download the "Project #4 gantt chart.xlsx" file.
