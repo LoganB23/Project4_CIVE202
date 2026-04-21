@@ -8,3 +8,4 @@ The details of the files in this project can be found below.
 4. To see our complete methods and how we did this project, along with a complete discussion of our tresults, please refer to      the "".
 5. To see a complete timesheet on how our team spent our time on this project, refer to the "Project4_Timesheet.pdf".
 6. To see the raw data files, refer to the "NRI_Table_CensusTracts_Florida.csv" file, the "NRI_Table_CensusTracts_Louisiana.csv" file, the "Florida.csv" file, and the "Louisiana.csv" file.
+7. To see details on the hazards that we selected and any other hazards present in the National Risk data, refer to the "NRIDataDictionary(in).csv".
